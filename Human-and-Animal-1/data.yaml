@@ -1,0 +1,8 @@
+names:
+- animal
+- human
+nc: 2
+
+test: C:\Users\ssk22\OneDrive\Documents\Chekrin project\Human-and-Animal-1\train\images
+train: C:\Users\ssk22\OneDrive\Documents\Chekrin project\Human-and-Animal-1\train\images
+val: C:\Users\ssk22\OneDrive\Documents\Chekrin project\Human-and-Animal-1\valid\images

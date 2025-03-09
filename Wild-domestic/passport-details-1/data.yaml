@@ -1,0 +1,18 @@
+names:
+- Bear
+- Cow
+- Deer
+- Dog
+- Elephant
+- Fox
+- Goat
+- Hen
+- Horse
+- Monkey
+- Rabbit
+- cat
+nc: 12
+
+test: C:\Users\ssk22\OneDrive\Documents\Chekrin project\Wild-domestic\passport-details-1\test\images
+train: C:\Users\ssk22\OneDrive\Documents\Chekrin project\Wild-domestic\passport-details-1\train\images
+val: C:\Users\ssk22\OneDrive\Documents\Chekrin project\Wild-domestic\passport-details-1\valid\images
